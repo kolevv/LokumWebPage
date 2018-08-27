@@ -1,3 +1,4 @@
+
 // Global styling for this template
 body,
 html {
@@ -42,6 +43,10 @@ h6 {
 
 .bg-dark {
   background-color: $gray-900 !important;
+}
+
+.bg-alt {
+  background-color: $alt !important;
 }
 
 .text-faded {
